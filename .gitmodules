@@ -1,0 +1,6 @@
+[submodule "ESE/ESE/back-end"]
+	path = ESE/ESE/back-end
+	url = https://github.com/ese-2024/back-end
+[submodule "ESE/ESE/front-end"]
+	path = ESE/ESE/front-end
+	url = https://github.com/ese-2024/front-end
